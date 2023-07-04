@@ -1,4 +1,7 @@
 # Sword Unsheathe Recasting
+[原作贴子](https://www.mcbbs.net/thread-787127-1-1.html) 
+[SUR苦力怕论坛](https://klpbbs.com/thread-106860-1-1.html)
+
 优秀MOD [[SU]利刃出鞘](https://www.mcmod.cn/class/1335.html) 的非官方重制版
 
 一个小型的RPG类型剑类MOD，具有较为完善的战斗与物品体系，合成表，独具特色的属性功能，甚至是“梗”类物品。
