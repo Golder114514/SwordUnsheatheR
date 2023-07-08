@@ -1,6 +1,8 @@
 利刃出鞘：重铸 Sword Unsheathe Recasting
 ==========================
 优秀MOD [[SU]利刃出鞘](https://www.mcmod.cn/class/1335.html) 的非官方重制版
+![SURlogo_new](https://github.com/Golder114514/SwordUnsheatheR/assets/111986159/6cc179c0-c37f-4b03-8ae0-27af14e49200)
+
 
 ## 链接
 - [原作贴子](https://www.mcbbs.net/thread-787127-1-1.html)
