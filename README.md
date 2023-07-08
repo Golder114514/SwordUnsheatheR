@@ -1,11 +1,19 @@
-# Sword Unsheathe Recasting
-[原作贴子](https://www.mcbbs.net/thread-787127-1-1.html) 
-[SUR苦力怕论坛](https://klpbbs.com/thread-106860-1-1.html)
-
+利刃出鞘：重铸 Sword Unsheathe Recasting
+==========================
 优秀MOD [[SU]利刃出鞘](https://www.mcmod.cn/class/1335.html) 的非官方重制版
 
-一个小型的RPG类型剑类MOD，具有较为完善的战斗与物品体系，合成表，独具特色的属性功能，甚至是“梗”类物品。
-![SURlogo](https://github.com/Golder114514/SwordUnsheatheR/assets/111986159/a126a7ab-8bc4-4273-84ad-aaf825200fb4)
+## 链接
+- [原作贴子](https://www.mcbbs.net/thread-787127-1-1.html)
+- [MC百科](https://www.mcmod.cn/class/11034.html)
+- [苦力怕论坛](https://klpbbs.com/thread-106860-1-1.html)
+- [Modrinth](https://modrinth.com/mod/swordunsheather)
+  
+## 介绍
+利刃出鞘：重铸 是一个小型的 RPG 剑类 Mod，具有较为完善的战斗与物品，独具特色的属性功能。
+
+模组添加了近 50 把剑，相当多和合成材料
+
+与原作 利刃出鞘 相比，更改优化了一些合成表，适当加强/削弱了武器能力，还为前作未完成的道具进行补充。
 
 所有（普通的）剑都有自己的合成方式，并根据其合成价值定位耐久与特殊属性
 
